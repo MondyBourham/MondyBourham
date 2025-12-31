@@ -10,11 +10,11 @@ I am a dedicated **Computer Science graduate** (Class of 2024) with a passion fo
 
 | Category | Skills |
 | :--- | :--- |
-| **Testing Types** | Manual Testing, API Testing, Regression, Smoke, Functional, Agile/Scrum |
-| **Automation Tools** | Selenium WebDriver, TestNG, Cucumber (BDD), Allure Reports |
+| **Testing Types** | Manual Testing, API Testing, Regression, Smoke, Functional|
+| **Automation Tools** | Selenium WebDriver, TestNG, Allure Reports |
 | **Programming** | Java, Python, Dart, C#, SQL |
-| **DevOps & Cloud** | Docker, Kubernetes, Jenkins, GitLab CI/CD, AWS, Azure |
-| **Tools & Version Control** | Jira, Git, GitHub, Postman |
+| **DevOps & Cloud** | Docker, Jenkins, GitLab CI/CD, AWS, Azure |
+| **Tools & Version Control** | Git, GitHub, Postman |
 
 ---
 
