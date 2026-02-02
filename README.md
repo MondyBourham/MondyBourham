@@ -20,7 +20,7 @@ I am a dedicated **Computer Science graduate** (Class of 2024) with a passion fo
 
 ### 🌟 Featured Projects
 
-#### 🧪 [SwagLabs E-Commerce Automation Testing](https://github.com/MondyBourham/SwagLabs-Automation-Testing)
+#### 🧪 [SwagLabs E-Commerce Automation Testing](https://github.com/MondyBourham/SwagLabs-Automation-Project)
 - **Description**: Developed a comprehensive end-to-end automation testing framework for an e-commerce platform.
 - **Tech Stack**: Java, Selenium, TestNG, Page Object Model (POM), Allure Reports.
 - **Key Achievement**: Automated critical user flows including login, product selection, and checkout, ensuring high reliability of the core business logic.
