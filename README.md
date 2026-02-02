@@ -25,11 +25,11 @@ I am a dedicated **Computer Science graduate** (Class of 2024) with a passion fo
 - **Tech Stack**: Java, Selenium, TestNG, Page Object Model (POM), Allure Reports.
 - **Key Achievement**: Automated critical user flows including login, product selection, and checkout, ensuring high reliability of the core business logic.
 
-#### 🏦 [Guru99 Banking Website Testing](https://github.com/MondyBourham/Guru99-Banking-Website-testing)
+#### 🏦 [Guru99 Banking Website Testing](https://github.com/MondyBourham/Guru99-Banking-Testing)
 - **Description**: Performed detailed manual testing for a banking application to identify critical bugs and ensure functional correctness.
 - **Key Achievement**: Created comprehensive test scenarios and bug reports using Jira, improving the overall quality of the application's financial modules.
 
-#### 🤖 [Intelligent AID Donation System](https://github.com/MondyBourham/AID)
+#### 🤖 [Intelligent AID Donation System](https://github.com/hassankhaled2/aid_humanity)
 - **Description**: A smart donation system integrating machine learning models (KNN and CNN) with a mobile application.
 - **Tech Stack**: Python, Firebase, Flutter.
 
